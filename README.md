@@ -1,27 +1,8 @@
-# Welcome to your Lovable project
+# Projeto para Conversão de Moedas reais para Criptomoedas
 
 ![image](https://github.com/user-attachments/assets/ee61535c-cdf0-42bb-9b4e-c8ab92987d99)
 
 
-## Project info
-
-**URL**: https://lovable.dev/projects/6596b767-b90a-4819-8bd8-04568769fd11
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/6596b767-b90a-4819-8bd8-04568769fd11) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
 
